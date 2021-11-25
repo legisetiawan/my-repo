@@ -17,12 +17,15 @@ body {
  }
   
  #profile-name{
-    text-align: center;
- }
+   text-align: center;
+}
 #footer {
    width: 100%;
-   margin: 30px;
-   background-color: antiquewhite;
+   height: 50px;
+   line-height: 50px;
+   text-align: center;
+   background-color: burlywood;
+   color: white;
 } 
 #header {
    width: 100%;
